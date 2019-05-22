@@ -1,4 +1,4 @@
-# fedora-pci-passthrough
+# Fedora 30 GPU Passthrough
 Guide for configuring VFIO/IOMMU GPU Passthrough on Fedora 30
 
 # Hardware Configuration
