@@ -138,7 +138,7 @@ This will allow `dracut` update the initial ram disk on Fedora 30 to include the
 
 7. Execute: 
 ```
-dracut –f –kver `uname –r`
+dracut –f –-kver `uname –r`
 ```
 
 8. Update your GRUB2 configuration. (I'm assuming you have a EFI system.)
